@@ -1,0 +1,3 @@
+# GitAndSW
+本人在探索使用Git管理solidworks格式的图纸以及BOM 
+如果你也感兴趣可以共同探讨
